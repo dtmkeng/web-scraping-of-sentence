@@ -64,3 +64,8 @@
 - [sentences-for-students](https://github.com/dtmkeng/web-scraping-of-sentence/blob/main/results/sentences-for-students.json)
 - [daily-use-english-sentences](https://github.com/dtmkeng/web-scraping-of-sentence/blob/main/results/daily-use-english-sentences.json)
 
+## How to run
+```bash
+npm i
+node index.js
+```
